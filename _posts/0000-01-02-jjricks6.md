@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Here comes dat boi
+Use the left arrow to go back!
